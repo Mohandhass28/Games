@@ -1,0 +1,39 @@
+#canvasl
+{
+    position: absolute;
+    top: 450px;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    width: 600px;
+    height: 600px;
+}
+
+.content
+{
+    position: relative;
+    left: 50%;
+    top: 30px;
+}
+
+.content label
+{
+    text-transform: capitalize;
+    position: relative;
+    left: -45px;
+    top: -10px;
+    font-size: 20px;
+}
+
+.content select
+{
+    position: relative;
+    left: -10px;
+    width: 70px;
+    height: 25px;
+}
+
+.content option
+{
+    text-transform: capitalize;
+    font-size: 20px;
+}

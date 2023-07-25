@@ -1,0 +1,29 @@
+body
+{
+    box-sizing: border-box;
+}
+.box1
+{
+    border: 5px solid black;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: relative;
+
+}
+
+.box2
+{
+    border: 5px solid black;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    float: left;
+}
+
+.action
+{
+    background: rebeccapurple;
+}

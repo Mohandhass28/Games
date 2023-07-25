@@ -1,0 +1,22 @@
+/* body {
+    background: black;
+} */
+#canvasl
+{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    border: 3px solid black;
+}
+
+#player, #img1, #img2, #img3, #img4, #img5
+{
+    display: none;
+}
+
+#img1, #img2, #img3, #img4, #img5
+{
+    position: relative;
+    width: 500px;
+
+}

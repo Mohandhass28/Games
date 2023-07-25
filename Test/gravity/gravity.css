@@ -1,0 +1,10 @@
+#canvasl
+{
+    border: 5px solid black;
+    position: relative;
+    width: 600px;
+    height: 600px;
+    left: 50vh;
+    right: 50vh;
+    top: 10vh;
+}

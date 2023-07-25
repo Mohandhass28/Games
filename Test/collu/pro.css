@@ -1,0 +1,12 @@
+#canvasl
+{
+    box-sizing: border-box;
+    position: absolute;
+    height: 700px;
+    width: 700px;
+    left: 50%;
+    /* top: 50%; */
+    right: 00px;
+    border: 4px solid black;
+    transform: translate(-50%, 5%);
+}
